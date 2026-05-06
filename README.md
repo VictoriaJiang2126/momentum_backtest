@@ -4,6 +4,10 @@
 
 ---
 
+## 回测结果
+<img width="1280" height="695" alt="image" src="https://github.com/user-attachments/assets/d19b7e58-e223-4821-8cbd-e5601856ea0d" />
+
+
 ## 项目结构
 
 ```
