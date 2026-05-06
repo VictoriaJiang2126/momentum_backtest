@@ -1,0 +1,4 @@
+下载数据 
+
+python -c "from universe import get_russell3000; from data_loader import download_prices; download_prices(get_russell3000())"
+前面 4 年的好结果可能只是赶上了 AI 牛市，拉到 2017-2025（9 年）能覆盖 2018Q4 暴跌、2019 复苏、2020 疫情崩盘+爆涨、2021 散户狂热、2022 熊市、2023-2024 AI 牛市，这才是有说服力的回测。
